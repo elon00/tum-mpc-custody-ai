@@ -1,0 +1,9 @@
+[package]
+name = "tum-mpc-custody-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Threshold multi-party computation institutional custody"
+license = "MIT"
+
+[dependencies]
